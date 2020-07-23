@@ -7,7 +7,8 @@ This is a simple computer vision program that uses facial recognition for authen
 
 Install Requirements
 --------
-In the terminal run:
+In the terminal run
+
             $ pip install -r requirements.txt 
 
 
